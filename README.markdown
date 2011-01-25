@@ -4,9 +4,10 @@
 * Created by Ian Hall
 * License: MIT/GPL
 
+Git Repo at:
 https://github.com/inhll/freemuseums
 
-* * *
+***
 
 Displays museums which are free on a specific date in a specific city.
 
